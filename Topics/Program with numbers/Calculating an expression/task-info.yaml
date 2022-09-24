@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+- name: dd/__init__.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6461#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 05 Sep 2022 19:57:12 UTC
+record: -1

@@ -1,0 +1,29 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6380#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 8. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    99
+    3
+    Correct output:
+    True
+
+    Your code output:
+
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 4, in <module>
+        if((a / b) % 2 == 0):
+    TypeError: unsupported operand type(s) for /: 'str' and 'str'
+  time: Wed, 07 Sep 2022 20:56:34 UTC
+record: -1
